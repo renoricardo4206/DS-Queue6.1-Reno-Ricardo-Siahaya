@@ -1,3 +1,4 @@
+//Referensi kode dari Juna
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -27,4 +28,5 @@ public class Bar {
         System.out.println("Passed: " + passed);
         System.out.println("Blocked: " + blocked);  
     }
+
 }
